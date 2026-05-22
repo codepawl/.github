@@ -6,10 +6,10 @@ CodePawl builds tools that help coding agents debug failures, remember useful co
 
 ## Stack
 
-- **TracePawl** — failure diagnosis and replay for coding agents
-- **MemPawl** — persistent memory for agentic systems
-- **OpenPawl** — runtime for coordinated coding agents
-- **CachePawl** — optimization for long-horizon agent workloads
+- **[TracePawl](https://github.com/codepawl/tracepawl)** — failure diagnosis and replay for coding agents
+- **[MemPawl](https://github.com/codepawl/mempawl)** — persistent memory for agentic systems
+- **[OpenPawl](https://github.com/codepawl/openpawl)** — runtime for coordinated coding agents
+- **[CachePawl](https://github.com/codepawl/cachepawl)** — optimization for long-horizon agent workloads
 
 ## Current Focus
 
