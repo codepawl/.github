@@ -6,7 +6,7 @@ CodePawl builds AI tools for people who have better things to do than babysit AI
 
 We make agents easier to use, easier to coordinate, and slightly less likely to destroy your weekends.
 
-Our first public product is **[CodePawl](https://github.com/codepawl/codepawl)**, an agent harness that just works™.
+Our first public product is **[Pals](https://github.com/codepawl/codepawl)**, an agent harness that just works™.
 
 ## Contact
 
