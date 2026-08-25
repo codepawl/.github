@@ -1,18 +1,21 @@
 # CodePawl
 
-> **We make AI think so you don't have to.**
+CodePawl is an independent software studio in Vietnam building open-source AI
+and developer tools.
 
-CodePawl builds AI tools for people who have better things to do than babysit AI.
+## Products
 
-We make agents easier to use, easier to coordinate, and slightly less likely to destroy your weekends.
+- **[Pals](https://github.com/codepawl/pals)** is a native Rust desktop app for
+  coordinating AI pals on your own computer.
+- **[Corbel](https://github.com/codepawl/corbel)** is a GPUI-native design
+  system for cross-platform Rust desktop apps.
 
-Our first public product is **[Pals](https://github.com/codepawl/codepawl)**, an agent harness that just works™.
+Both projects are developed in public. CodePawl also maintains a focused
+[Zed/GPUI compatibility fork](https://github.com/codepawl/zed) used by Pals and
+Corbel.
 
 ## Contact
 
-**Founder:** An Nguyen
-**Email:** [founder@codepawl.com](mailto:founder@codepawl.com)
-**Website:** [codepawl.com](https://codepawl.com)
-
-
-*No AGI was harmed in the making of this organization.*
+- Website: [codepawl.com](https://codepawl.com)
+- Email: [founder@codepawl.com](mailto:founder@codepawl.com)
+- X: [@codepawl](https://x.com/codepawl)
