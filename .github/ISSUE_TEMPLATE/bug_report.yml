@@ -1,0 +1,81 @@
+name: Bug report
+description: Report a reproducible problem in a CodePawl project.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include credentials, tokens, or private data.
+        Report security vulnerabilities through the private security link in the template chooser.
+  - type: checkboxes
+    id: existing_issue
+    attributes:
+      label: Existing issue
+      options:
+        - label: I searched the open and closed issues for this problem.
+          required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: Enter the release tag, application version, or commit you tested.
+      placeholder: v0.2.1 or 0123456
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Platform and environment
+      description: Include the operating system, architecture, and other relevant runtime details.
+      placeholder: |
+        Operating system:
+        Architecture:
+        Relevant runtime or hardware:
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Give the smallest sequence that reproduces the problem.
+      placeholder: |
+        1. Open ...
+        2. Select ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: Actual behavior
+      description: Describe what happened. Include the exact error when available.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected behavior
+      description: Describe what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Explain which workflow is blocked or degraded.
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs, screenshots, or other evidence
+      description: Remove credentials, tokens, and private data before attaching evidence.
+    validations:
+      required: false
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I agree to follow the CodePawl Code of Conduct.
+          required: true

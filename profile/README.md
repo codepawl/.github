@@ -1,18 +1,14 @@
 # CodePawl
 
-CodePawl is an independent software studio in Vietnam building open-source AI
-and developer tools.
+CodePawl is an independent software studio in Vietnam building AI-powered
+creative software.
 
 ## Products
 
-- **[Pals](https://github.com/codepawl/pals)** is a native Rust desktop app for
-  coordinating AI pals on your own computer.
-- **[Corbel](https://github.com/codepawl/corbel)** is a GPUI-native design
-  system for cross-platform Rust desktop apps.
-
-Both projects are developed in public. CodePawl also maintains a focused
-[Zed/GPUI compatibility fork](https://github.com/codepawl/zed) used by Pals and
-Corbel.
+- **Mova** is CodePawl's AI-native video editor. It is being designed as a
+  local-first Electron app for structured, programmatic editing with a WebMCP
+  direction. The repository is private while the first implementation takes
+  shape.
 
 ## Contact
 

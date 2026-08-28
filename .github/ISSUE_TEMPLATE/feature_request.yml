@@ -1,0 +1,53 @@
+name: Feature request
+description: Propose a specific product or developer-workflow change.
+title: "[Feature] "
+body:
+  - type: checkboxes
+    id: existing_request
+    attributes:
+      label: Existing request
+      options:
+        - label: I searched the open and closed issues for this request.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the user or developer problem without assuming a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_behavior
+    attributes:
+      label: Proposed behavior
+      description: Describe the behavior you want and the expected result.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Describe current workarounds or other approaches you considered.
+    validations:
+      required: false
+  - type: textarea
+    id: impact
+    attributes:
+      label: Compatibility, privacy, or security impact
+      description: Note affected platforms, formats, APIs, data, permissions, or trust boundaries.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add examples, screenshots, related issues, or implementation constraints.
+    validations:
+      required: false
+  - type: checkboxes
+    id: conduct
+    attributes:
+      label: Code of Conduct
+      options:
+        - label: I agree to follow the CodePawl Code of Conduct.
+          required: true
