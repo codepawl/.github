@@ -1,20 +1,36 @@
 # CodePawl
 
-CodePawl is a small studio in Vietnam. We make cozy little apps for your
-desktop and your phone.
+An independent software studio in Vietnam. We make software that runs on your
+own computer, works without an account, and stays out of your way.
 
-## Apps
+## Orglet
 
-- **[Deskfisch](https://deskfisch.codepawl.com)** is a pixel-art aquarium for
-  your desktop. The water runs a real nitrogen cycle, the fish have needs, and
-  pet mode floats the tank over your work. Free on Linux, macOS, Windows and in
-  the browser. Source is in [codepawl/deskfisch](https://github.com/codepawl/deskfisch)
-  under PolyForm Noncommercial.
-- **[KaoGarden](https://kaogarden.com)** is kaomoji, text art and emoji you copy
-  with one tap. Browse by mood, no account needed.
+**[Orglet](https://orglet.codepawl.com)** is a small team of AI workers on your
+own computer. Give each worker a name, a role and its own instructions, then
+hand them work in a normal chat.
+
+Workers can run on the Claude Code, Codex or Cursor Agent plan you are already
+signed in to, so there is no second subscription to buy. Workers, chats and
+attached files live in a local database — there is no Orglet account and no
+Orglet server.
+
+It is alpha and AGPL-3.0. Windows has
+[a build you can download](https://github.com/codepawl/orglet/releases/latest);
+on macOS and Linux it runs from source. Source in
+[codepawl/orglet](https://github.com/codepawl/orglet), and the
+[docs](https://orglet.codepawl.com/docs/) are written next to it.
+
+## How we build
+
+- **Local first.** What you make stays on your machine, in a local database or
+  plain files, not on a server we own.
+- **Open source.** Read it, run it, change it.
+- **No account to start.** Open the app and use it. There is nothing to sign
+  in to.
 
 ## Contact
 
 - Website: [codepawl.com](https://codepawl.com)
 - Email: [hello@codepawl.com](mailto:hello@codepawl.com)
 - X: [@codepawl](https://x.com/codepawl)
+- Threads: [@codepawl](https://www.threads.com/@codepawl)
