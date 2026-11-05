@@ -5,7 +5,6 @@ checked frame by frame. A canal lock you can run, a steam spider, a Titanic cut 
 
 [![X @anxuanng](https://img.shields.io/badge/@anxuanng-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anxuanng)
 [![codepawl.com](https://img.shields.io/badge/codepawl.com-0d1117?style=for-the-badge)](https://codepawl.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://codepawl.com/discord)
 [![hello@codepawl.com](https://img.shields.io/badge/hello@codepawl.com-30363d?style=for-the-badge)](mailto:hello@codepawl.com)
 
 <table>
