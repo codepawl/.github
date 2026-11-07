@@ -1,6 +1,6 @@
 # CodePawl
 
-An AI art studio in Vietnam. We make 3D worlds, films and battles with AI agents, built from real references and
+A 3D studio. We make 3D worlds, films and games with AI agents, built from real references and
 checked frame by frame. A canal lock you can run, a steam spider, a Titanic cut open room by room
 
 [![X @anxuanng](https://img.shields.io/badge/@anxuanng-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anxuanng)
@@ -27,6 +27,7 @@ hello@codepawl.com
 
 | Project | What it is | |
 |---|---|---|
+| **[creator-generalist](https://github.com/codepawl/creator-generalist)** | Skills that make your agent a 2D and 3D generalist: Shorts, cutaways, characters and explainer maps for YouTube, TikTok, Instagram and X. Works in Claude Code, Codex, Cursor, Gemini CLI and OpenCode | [![stars](https://img.shields.io/github/stars/codepawl/creator-generalist?style=flat&logo=github&label=stars)](https://github.com/codepawl/creator-generalist) |
 | **[viz3d](https://github.com/codepawl/viz3d)** | The skill behind most of the work. Your coding agent uses it to visualize anything in 3D, as a film, an app, a lesson, a book or a game. It works in Claude Code, Codex, Cursor, Gemini CLI and OpenCode | [![stars](https://img.shields.io/github/stars/codepawl/viz3d?style=flat&logo=github&label=stars)](https://github.com/codepawl/viz3d) |
 | **[67.js](https://github.com/codepawl/67.js)** | A WebGL2 3D engine that AI agents drive through MCP. viz3d renders its films and stills in it. Docs and showcase at [67js.codepawl.com](https://67js.codepawl.com) | [![npm](https://img.shields.io/npm/v/@codepawlhq/67js?style=flat&logo=npm&label=npm)](https://www.npmjs.com/package/@codepawlhq/67js) |
 | **[spume](https://github.com/codepawl/spume)** | A GPU liquid solver on NVIDIA Warp, with a Blender add-on. We use it in place of Mantaflow | [![stars](https://img.shields.io/github/stars/codepawl/spume?style=flat&logo=github&label=stars)](https://github.com/codepawl/spume) |
