@@ -1,9 +1,11 @@
 # CodePawl
 
-A 3D studio. We make 3D worlds, films and games with AI agents, built from real references and
-checked frame by frame. A canal lock you can run, a steam spider, a Titanic cut open room by room
+A 3D studio in Vietnam. We make worlds and films with AI and give away the 3D models and tools we use.
+Each piece is built from real references and checked frame by frame. A canal lock you can run, a steam
+spider, a Titanic cut open room by room
 
 [![X @anxuanng](https://img.shields.io/badge/@anxuanng-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anxuanng)
+[![Hugging Face codepawl](https://img.shields.io/badge/Hugging%20Face-codepawl-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/codepawl)
 [![codepawl.com](https://img.shields.io/badge/codepawl.com-0d1117?style=for-the-badge)](https://codepawl.com)
 [![hello@codepawl.com](https://img.shields.io/badge/hello@codepawl.com-30363d?style=for-the-badge)](mailto:hello@codepawl.com)
 
@@ -20,8 +22,9 @@ checked frame by frame. A canal lock you can run, a steam spider, a Titanic cut 
   </tr>
 </table>
 
-New pieces go up first on X. To commission a piece, go to [codepawl.com](https://codepawl.com) or write to
-hello@codepawl.com
+New pieces go up first on [X](https://x.com/anxuanng). Free 3D model packs are on
+[Hugging Face](https://huggingface.co/codepawl), and the tools are below. To commission a piece, go to
+[codepawl.com](https://codepawl.com) or write to hello@codepawl.com
 
 ## Open source
 
@@ -32,7 +35,7 @@ hello@codepawl.com
 | **[67.js](https://github.com/codepawl/67.js)** | A WebGL2 3D engine that AI agents drive through MCP. viz3d renders its films and stills in it. Docs and showcase at [67js.codepawl.com](https://67js.codepawl.com) | [![npm](https://img.shields.io/npm/v/@codepawlhq/67js?style=flat&logo=npm&label=npm)](https://www.npmjs.com/package/@codepawlhq/67js) |
 | **[spume](https://github.com/codepawl/spume)** | A GPU liquid solver on NVIDIA Warp, with a Blender add-on. We use it in place of Mantaflow | [![stars](https://img.shields.io/github/stars/codepawl/spume?style=flat&logo=github&label=stars)](https://github.com/codepawl/spume) |
 | **[oh-snap](https://github.com/codepawl/oh-snap)** | Screen snips on Windows, macOS and Linux. It is written in Rust, opens its overlay in 20 ms and is 1.3 MB | [![release](https://img.shields.io/github/v/release/codepawl/oh-snap?style=flat&logo=rust&label=release)](https://github.com/codepawl/oh-snap/releases) |
-| **[simready-glb](https://huggingface.co/datasets/codepawl/simready-glb)** | All 2,595 NVIDIA SimReady models as web-ready glb files. Search and orbit them in the [viewer](https://huggingface.co/spaces/codepawl/simready-glb-viewer) | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dataset-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/codepawl/simready-glb) |
+| **[3D model packs](https://huggingface.co/codepawl)** | Free packs of web-ready GLB models from big open releases: Amazon Berkeley Objects, NVIDIA SimReady, Google Scanned Objects, Japan's PLATEAU cities, NASA and more. Each pack keeps its source licence and has a viewer | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-datasets-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/codepawl) |
 
 ## Closed
 
