@@ -1,6 +1,7 @@
 # CodePawl
 
-A 3D studio in Vietnam. We make worlds and films with AI and give away the 3D models and tools we use.
+A 3D studio in Vietnam. We make worlds and films with AI and share the 3D models and tools behind them
+for free.
 Each piece is built from real references and checked frame by frame. A canal lock you can run, a steam
 spider, a Titanic cut open room by room
 
