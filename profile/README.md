@@ -1,4 +1,11 @@
-# CodePawl
+<p align="center">
+  <a href="https://codepawl.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codepawl/.github/main/brand/codepawl-lockup-dark.png">
+      <img alt="CodePawl" src="https://raw.githubusercontent.com/codepawl/.github/main/brand/codepawl-lockup.png" width="260">
+    </picture>
+  </a>
+</p>
 
 A 3D studio in Vietnam. We make worlds and films with AI and share the 3D models and tools behind them
 for free.
@@ -6,6 +13,7 @@ Each piece is built from real references and checked frame by frame. A canal loc
 spider, a Titanic cut open room by room
 
 [![X @anxuanng](https://img.shields.io/badge/@anxuanng-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anxuanng)
+[![X @codepawl](https://img.shields.io/badge/@codepawl-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codepawl)
 [![Threads @codepawl](https://img.shields.io/badge/@codepawl-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@codepawl)
 [![YouTube @codepawlhq](https://img.shields.io/badge/@codepawlhq-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codepawlhq)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/codepawl)
@@ -22,4 +30,4 @@ Everything we share stays free. [Sponsors](https://github.com/sponsors/codepawl)
 and the hours behind it. Backers from $15 a month get their name here, and companies from $100 a month get
 their logo.
 
-[![Sponsor CodePawl](https://img.shields.io/badge/Sponsor-CodePawl-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/codepawl)
+[![Sponsor CodePawl](https://img.shields.io/badge/Sponsor-CodePawl-4f4e5a?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=2a282d)](https://github.com/sponsors/codepawl)
