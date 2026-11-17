@@ -25,6 +25,10 @@ New pieces go up first on [X](https://x.com/anxuanng), on
 [Hugging Face](https://huggingface.co/codepawl), and our open source tools are pinned below. To commission a piece, go to
 [codepawl.com](https://codepawl.com) or write to **[hello@codepawl.com](mailto:hello@codepawl.com)**.
 
+Made something with [Crucible](https://github.com/codepawl/crucible)? Post it in
+[Show and tell](https://github.com/codepawl/crucible/discussions/new?category=show-and-tell). We feature picked work on the
+[showcase](https://crucible.codepawl.com/showcase.html), with credit.
+
 ## Sponsors
 
 Everything we share stays free. [Sponsors](https://github.com/sponsors/codepawl) pay for GPU time, test hardware
